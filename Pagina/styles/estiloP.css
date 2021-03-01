@@ -1,0 +1,52 @@
+h1{
+	text-align: center;
+	color:white;
+}
+
+#enlaces{
+	background-color:white;
+	height:100%;
+	width:20%;
+	float:left;
+	font-size: xx-large
+}
+
+#info{
+	background-color:white;
+	height:100%;
+	width:60%;
+	float:left;
+	text-align: center;
+	color:white;
+	font-size: xxx-large
+}
+
+#parrafo{
+	background-color:white;
+	height:100%;
+	width:20%;
+	float:left;
+	text-align:center;
+	font-size: x-large
+	
+}
+
+#contacto{
+	background-color:white;
+	height:40%;
+	width:100%;
+	float:left;
+}
+
+#datos,p{
+	text-align: center;
+	color:black;
+	font-size: large
+}
+
+h2{
+	text-align: center;
+	color:black;
+}
+
+

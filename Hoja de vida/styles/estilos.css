@@ -1,0 +1,22 @@
+/* Así es un comentario en CSS */
+
+h1{
+	text-align: center;
+	background-color:blue;
+	color:white;
+}
+
+#miImagen {
+	margin-left:578px;
+	
+}
+
+h2,h3{
+	background-color:blue;
+	color:white;
+}
+
+#tabla{
+	background-color:blue;
+	color:white;
+}
